@@ -16,5 +16,10 @@ I am playing videos in vlc because I prefer to watch videos at 2.5 times regular
 If you don't like this it is trivial to remove.
 
 ![alt text](https://github.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:51:37.png)
+Frontpage
+
 ![alt text](https://github.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:52:26.png)
+Video page with video (I intentionally don't remove videos when opening a youtube link directly)
+
 ![alt text](https://github.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:53:20.png)
+Video page with video removed (Happens when following a link)
