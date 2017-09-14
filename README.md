@@ -15,6 +15,6 @@ I am playing videos in vlc because I prefer to watch videos at 2.5 times regular
 
 If you don't like this it is trivial to remove.
 
-![alt text](https://raw.githubcontent.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:51:37.png)
-![alt text](https://raw.githubcontent.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:52:26.png)
-![alt text](https://raw.githubcontent.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:53:20.png)
+![alt text](https://github.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:51:37.png)
+![alt text](https://github.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:52:26.png)
+![alt text](https://github.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:53:20.png)
