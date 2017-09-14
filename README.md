@@ -16,6 +16,12 @@ I am playing videos in vlc because I prefer to watch videos at 2.5 times regular
 
 If you don't like this it is trivial to remove.
 
+# vlcyt.desktop
+Place in `/usr/share/applications/` and run `gio mime x-scheme-handler/vlc vlcyt.desktop` to open `vlc://` links in vlc. You need to change the path of the script.
+
+# vlcyt.sh
+Simply removes the `vlc://` part of `vlc://http://youtube.com/watch?..` before passing the link to vlc.
+
 ![alt text](https://github.com/BlackCapCoder/better-youtube/raw/master/screenshots/imgur-2017_09_14-23:51:37.png)
 Frontpage
 
