@@ -3,6 +3,7 @@
 
 # DarkTube.css
 This is a custom design for youtube that I have developed over the years.
+I think it is a fork of this: https://userstyles.org/styles/117673/darktube
 
 # youtube-thumb.js
 This script does three things:
