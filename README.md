@@ -12,7 +12,7 @@ This script does three things:
 * Hide videos and prevent videos from playing
 * Open videos in vlc
 
-I am playing videos in vlc because I prefer to watch videos at 2.5 times regular speed (you can comfortably listen to sped up speech with practice, and it is hard to go back once you do), and html5 videos has a silly CPU usage at anything higher than 2x.
+I am playing videos in vlc because I prefer to watch videos at 2.5 times regular speed (you can comfortably listen to sped up speech with practice, and it is uncomfortable to go back once you do), and html5 videos has a silly CPU usage at anything higher than 2x.
 
 If you don't like this it is trivial to remove.
 
